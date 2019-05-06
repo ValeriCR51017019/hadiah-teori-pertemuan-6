@@ -28,7 +28,7 @@ int main ()
   	   break;
 	case 'C':
  		harga=2500000;
-   	cout<<"Barang yang dibeli : Kursi\n";
+   	cout<<"Barang yang dibeli : Lemari\n";
    	cout<<"Harga satuan : Rp "<<harga<<endl;
   		 break;
 	}
